@@ -1,0 +1,4 @@
+﻿  Pac-Man for Luxoft.cpp
+D:\Programs\Pac-Man for Luxoft\Pac-Man for Luxoft\Pac-Man for Luxoft.cpp(22,22): warning C4018: <: несоответствие типов со знаком и без знака
+Pac-Man for Luxoft.obj : error LNK2001: неразрешенный внешний символ ""public: void __thiscall ConsoleAdapter::initMainMenu(void)" (?initMainMenu@ConsoleAdapter@@QAEXXZ)"
+D:\Programs\Pac-Man for Luxoft\Release\Pac-Man for Luxoft.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
